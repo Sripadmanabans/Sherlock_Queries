@@ -1,0 +1,1 @@
+Warmup problem from HackerRank.
